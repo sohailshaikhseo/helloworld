@@ -3,7 +3,12 @@
 Explore the world of iOS app development with this simple 'Hello World' project in Swift. This introductory project is perfect for beginners who want to take their first steps in building mobile applications for Apple devices.
 
 ## Getting Started
-
+```override func viewDidLoad() {
+    super.viewDidLoad()
+    // Update the label's text
+    yourLabel.text = "Hello, World!"
+}
+```
 ### Prerequisites
 
 - Xcode: You'll need Xcode, Apple's integrated development environment, to build and run the iOS app.
@@ -37,4 +42,4 @@ If you'd like to contribute to this project or improve upon it, feel free to sub
 ## Acknowledgments
 
 - Created as a simple introduction to iOS app development for beginners.
-- Inspired by the desire to encourage learning and exploration in the world of <a href="https://www.360technosoft.com/services/mobile-application-development">mobile app development</a> 
+- Inspired by the desire to encourage learning and exploration in the world of <a href="https://www.360technosoft.com/services/mobile-application-development">mobile app development</a>
