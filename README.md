@@ -42,4 +42,4 @@ If you'd like to contribute to this project or improve upon it, feel free to sub
 ## Acknowledgments
 
 - Created as a simple introduction to iOS app development for beginners.
-- Inspired by the desire to encourage learning and exploration in the world of <a href="https://www.360technosoft.com/services/mobile-application-development">mobile app development</a>
+- Inspired by the desire to encourage learning and exploration in the world of mobile app development.
